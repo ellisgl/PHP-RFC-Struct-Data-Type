@@ -46,7 +46,7 @@ Configurations, DTOs, anything that needs a strict schema.
         ?array Acme\AnotherStruct 'prop24';
     }
 
-    - OR? -
+- OR? -
     
     struct MyStuct 
     {
@@ -141,7 +141,7 @@ Configurations, DTOs, anything that needs a strict schema.
     
     echo $myStruct['prop02'];
     
-    - OR? -
+- OR? -
     
     echo $myStruct->prop02;
 
