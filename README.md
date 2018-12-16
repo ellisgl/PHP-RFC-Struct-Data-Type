@@ -46,7 +46,7 @@ Configurations, DTOs, anything that needs a strict schema.
         ?array Acme\AnotherStruct 'prop24';
     }
 
-- OR? -
+OR?
     
     struct MyStuct 
     {
