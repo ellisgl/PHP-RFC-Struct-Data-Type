@@ -5,13 +5,13 @@ PHP has many data types, but does not offer something that is the equivalent to 
 
 The purpose of this RFC is to propose a data type of 'struct', which would be a strictly typed, immutable data structure that resembles a mix of a class and an array.
 
-    Pros:
+* Pros:
     * Provides a data type which would immutable and self-validating by mandatory type hinting.
 
-    Cons:
+* Cons:
     * ?
 
-    Possible future considerations:
+* Possible future considerations:
     * Advanced Type Validators.
         
 ## Use cases:
